@@ -4,11 +4,20 @@ Bu depo, `microsoft/playwright` test otomasyon altyapısı üzerinde **Klasik Ku
 
 ---
 
-## 🎬 4-Ekranlı Eşzamanlı Canlı Benchmark Videosu (Full HD 1080p)
+## 🎬 4-Ekranlı Eşzamanlı Canlı Benchmark Demosu (Otomatik Oynatıcı)
 
-Aşağıdaki video, 4 farklı test yönteminin eşzamanlı olarak çalıştırıldığı, ekranda neon fare imlecinin süzüldüğü ve tıklama anında şok dalgalarının (ripple effect) yayıldığı 2x2 Full HD ekran kaydıdır:
+Aşağıdaki animasyon, 4 farklı test yönteminin eşzamanlı olarak çalıştırıldığı, ekranda neon fare imlecinin süzüldüğü ve tıklama anında yeşil şok dalgalarının (ripple effect) yayıldığı gerçek zamanlı 2x2 grid kaydıdır:
 
-> 🎥 **[human_intuitive_4way_split.mp4 dosyasını izle / indir](./human_intuitive_4way_split.mp4)**
+[![4-Ekranlı Canlı Benchmark Demosu](./demo.gif)](https://github.com/cancakmk/playwright-ai-benchmark/blob/main/human_intuitive_4way_split.mp4)
+
+> 💡 **Video İpuçları:**
+> * Yukarıdaki animasyon GitHub üzerinde otomatik olarak sürekli döngüde oynar.
+> * **[GitHub Dahili Video Oynatıcısında 1080p İzle (human_intuitive_4way_split.mp4)](https://github.com/cancakmk/playwright-ai-benchmark/blob/main/human_intuitive_4way_split.mp4)**
+> * **[Doğrudan Full HD İndir (Release Asset)](https://github.com/cancakmk/playwright-ai-benchmark/releases/download/v1.0.0/human_intuitive_4way_split.mp4)**
+
+---
+
+### 📸 Test Bitiş Anı ve Karar Özeti (Snapshot)
 
 <p align="center">
   <img src="./video_final_frame.jpg" alt="4-Ekranlı Canlı Karşılaştırma Final Ekranı" width="100%">
